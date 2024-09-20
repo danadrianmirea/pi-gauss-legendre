@@ -1,1 +1,1 @@
-"# pi-gauss-legendre" 
+pi-gauss-legendre
